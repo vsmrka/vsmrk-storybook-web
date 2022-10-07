@@ -480,7 +480,36 @@
       }
     }
   ],
-  "users": [],
+  "users": [
+    {
+      "id": "pcNYCHfKvFU78zfl0kU1jXlL9St2",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/vsmrkapp.appspot.com/o/users%2FpcNYCHfKvFU78zfl0kU1jXlL9St2%2Fphoto?alt=media&token=39b40094-856f-48fa-9bd6-34e79531be1e"
+    },
+    {
+      "id": "CLbBim2ZZxaWp6pSbJY4diIumtH3",
+      "avatar": null
+    },
+    {
+      "id": "CQUx4uN8qlajojQF9W33Gxcq5TN2",
+      "avatar": null
+    },
+    {
+      "id": "mISznN0JHbgjQNCU5bNbNEgxXfp2",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/vsmrkapp.appspot.com/o/users%2FmISznN0JHbgjQNCU5bNbNEgxXfp2%2Fphoto?alt=media&token=94f46537-926e-45fd-9ad7-ad83836a025b"
+    },
+    {
+      "id": "YuwxzVIrzUaVrd9vrWpqPgQd3fy2",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/vsmrkapp.appspot.com/o/users%2FYuwxzVIrzUaVrd9vrWpqPgQd3fy2%2Fphoto?alt=media&token=257184d9-62cf-45eb-8ad0-12112ccb229c"
+    },
+    {
+      "id": "RIaks8Vip9ecrEJ8OELQH990zFo2",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/vsmrkapp.appspot.com/o/users%2FRIaks8Vip9ecrEJ8OELQH990zFo2%2Fphoto?alt=media&token=e879a340-26b6-49e4-9f5f-7832514e9552"
+    },
+    {
+      "id": "HY7XsgCmsoeXTrfbX4pGvEUx6yq2",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/vsmrkapp.appspot.com/o/users%2FHY7XsgCmsoeXTrfbX4pGvEUx6yq2%2Fphoto?alt=media&token=5d56e34a-e9b4-4cb1-b6f8-1965fa0bff38"
+    }
+  ],
   "accessStatus": {
     "isAvailable": true,
     "payload": null

@@ -1,0 +1,340 @@
+{
+  "id": "77b48712-a24e-4f43-8fb3-b1096b7e34c4",
+  "createdAt": "2022-10-04T09:02:32.458Z",
+  "startDate": "2022-10-18T12:02:22.100Z",
+  "masterTrainingId": "27a84b61-1ee3-4c58-93dd-16b064fa1810",
+  "instructorId": "RVInYH85dCUBFajAENTkuHzafIO2",
+  "updatedAt": "2022-10-04T09:02:32.458Z",
+  "status": "ACTIVE",
+  "rating": null,
+  "endTime": null,
+  "analyticsStatus": "UNPROCESSED",
+  "ratingWeight": null,
+  "isFree": false,
+  "marathons": [
+    {
+      "id": "18a21f10-a5bf-46fb-83a5-6008b1f858f9",
+      "createdAt": "2022-10-04T09:02:24.018Z",
+      "updatedAt": "2022-10-04T09:04:42.463Z",
+      "name": "Включение концептуальных платформ",
+      "volume": 8,
+      "covers": [
+        "https://res.cloudinary.com/dgll2hvw4/image/upload/v1660057954/operator/OdIz1X8E3ZNJpgkbLgy4A3WmJoW2/marathons/6-cardImg.png"
+      ],
+      "instructorId": null,
+      "goal": "Запустить пища дальний поколение спалить холодно о.",
+      "description": "Скрытый заведение гулять протягивать носок доставать. Способ парень очутиться чем. Ломать неожиданный наткнуться багровый.",
+      "chatUrl": null,
+      "status": "ACTIVE",
+      "startDate": "2022-10-04T02:00:00.000Z",
+      "finishDate": "2022-10-18T20:59:59.000Z",
+      "marathonPriceId": null,
+      "isFree": true,
+      "isRecommended": true,
+      "included": [
+        {
+          "id": 0,
+          "text": "fsdfhrhrthjrt",
+          "type": "allow"
+        },
+        {
+          "id": 1,
+          "text": "rthrthrt",
+          "type": "allow"
+        }
+      ],
+      "results": [
+        {
+          "id": 0,
+          "text": "fsdfsdf",
+          "type": "allow"
+        },
+        {
+          "id": 1,
+          "text": "sdffffff",
+          "type": "allow"
+        }
+      ],
+      "cardImg": "https://res.cloudinary.com/dgll2hvw4/image/upload/v1660057954/operator/OdIz1X8E3ZNJpgkbLgy4A3WmJoW2/marathons/6-cardImg.png",
+      "smallCardImg": "https://res.cloudinary.com/dgll2hvw4/image/upload/v1660057954/operator/OdIz1X8E3ZNJpgkbLgy4A3WmJoW2/marathons/6-smallCardImg.png",
+      "marathonPageImg": "https://res.cloudinary.com/dgll2hvw4/image/upload/v1660057954/operator/OdIz1X8E3ZNJpgkbLgy4A3WmJoW2/marathons/6-marathonPageImg.png",
+      "logoImg": "https://res.cloudinary.com/dgll2hvw4/image/upload/v1660057954/operator/OdIz1X8E3ZNJpgkbLgy4A3WmJoW2/marathons/6-logoImg.png",
+      "trainingPlan": {
+        "parts": [
+          {
+            "title": "ЧАСТЬ 1",
+            "trainings": [
+              {
+                "id": "8121316e-efa3-4d4f-9fc1-755966ae10cb",
+                "title": "Включение концептуальных платформ",
+                "startTime": "2022-10-04T12:02:22.100Z"
+              },
+              {
+                "id": "654dde07-4b13-4e4e-8f01-065f3176f63d",
+                "title": "Включение концептуальных платформ",
+                "startTime": "2022-10-05T04:27:30.100Z"
+              }
+            ],
+            "description": "x 1"
+          },
+          {
+            "title": "ЧАСТЬ 2",
+            "trainings": [
+              {
+                "id": "b33cc4ea-db62-432e-8053-b4434c18d6e0",
+                "title": "Включение концептуальных платформ",
+                "startTime": "2022-10-06T01:22:08.100Z"
+              },
+              {
+                "id": "c47af3a8-48c2-45a4-8bd4-7cd6692f5722",
+                "title": "Включение концептуальных платформ",
+                "startTime": "2022-10-11T00:10:42.100Z"
+              }
+            ],
+            "description": "x 2"
+          },
+          {
+            "title": "ЧАСТЬ 3",
+            "trainings": [
+              {
+                "id": "bb24bb81-2f5b-4c4e-ab60-9b24b7e1426b",
+                "title": "Включение концептуальных платформ",
+                "startTime": "2022-10-11T20:25:20.100Z"
+              },
+              {
+                "id": "ecf8dc87-c279-49da-8957-98ec958f6d06",
+                "title": "Включение концептуальных платформ",
+                "startTime": "2022-10-13T10:45:08.100Z"
+              },
+              {
+                "id": "18d6ebd5-b67e-4382-9a97-158ceab82243",
+                "title": "Включение концептуальных платформ",
+                "startTime": "2022-10-16T19:48:18.100Z"
+              },
+              {
+                "id": "77b48712-a24e-4f43-8fb3-b1096b7e34c4",
+                "title": "Включение концептуальных платформ",
+                "startTime": "2022-10-18T12:02:22.100Z"
+              }
+            ],
+            "description": "x 3"
+          }
+        ],
+        "duration": 160,
+        "amountOfParts": 3,
+        "amountOfTrainings": 8
+      },
+      "certificateId": null,
+      "MarathonPrice": null
+    }
+  ],
+  "masterTraining": {
+    "id": "27a84b61-1ee3-4c58-93dd-16b064fa1810",
+    "createdAt": "2022-10-04T09:02:19.363Z",
+    "updatedAt": "2022-10-04T09:02:19.374Z",
+    "name": "Включение концептуальных платформ",
+    "calories": 5,
+    "instructorId": "RVInYH85dCUBFajAENTkuHzafIO2",
+    "description": "Посвятить горький жить. Оборот вариант разуметься избегать что. Угол оставить смелый приятель собеседник. Советовать направо карман волк. Коричневый умолять вскинуть. Недостаток витрина мрачно необычный прежний сравнение прошептать.",
+    "duration": 20,
+    "priceCategory": 1,
+    "difficulty": null,
+    "shortDescription": "Поэтапное и максимальное взаимодействие",
+    "status": "ACTIVE",
+    "equipment": [],
+    "direction": "POWER",
+    "type": null,
+    "explicit": null,
+    "child": null,
+    "covers": [
+      "https://res.cloudinary.com/dgll2hvw4/image/upload/v1660057717/operator/OdIz1X8E3ZNJpgkbLgy4A3WmJoW2/marathons/4-cardImg.png"
+    ],
+    "rating": null,
+    "ratingWeight": null,
+    "kind": "TRAINING",
+    "productId": {
+      "priceCategoryId": 1,
+      "iosProductId": "training",
+      "androidProductId": "training",
+      "price": 99
+    }
+  },
+  "instructor": {
+    "id": "RVInYH85dCUBFajAENTkuHzafIO2",
+    "createdAt": "2022-08-11T09:22:07.285Z",
+    "updatedAt": "2022-10-07T06:56:40.753Z",
+    "firstName": "Елена",
+    "lastName": "Глазунова",
+    "middleName": "",
+    "birthday": "2004-08-11T08:23:04.012Z",
+    "sex": "FEMALE",
+    "email": "1108@vsmrk.ru",
+    "phone": "+79384310018",
+    "about": null,
+    "timezone": "Europe/Moscow",
+    "city": "г Краснодар",
+    "instagram": "",
+    "alias": "",
+    "level": "BEGINNER",
+    "rating": 4e-323,
+    "avatar": "https://res.cloudinary.com/dgll2hvw4/image/upload/v1660209973/instructor/RVInYH85dCUBFajAENTkuHzafIO2/avatars/gsfnt9n1cxqmrfyak6rt.png",
+    "emoji": null,
+    "phoneVerified": false,
+    "resolvedCoordinates": "г Краснодар",
+    "status": "NEW",
+    "specialization": "FITNESS",
+    "country": "Russia",
+    "description": "Тренер со стажем",
+    "facts": [
+      "Факт 1",
+      "Факт 2",
+      "Факт 3",
+      "Факт 4",
+      "Факт 5",
+      "Факт 6",
+      "Факт 7",
+      "Факт 8"
+    ],
+    "latitude": 55.75378148966004,
+    "longitude": 37.62199401855469,
+    "covers": [
+      "https://res.cloudinary.com/dgll2hvw4/image/upload/v1660209979/instructor/RVInYH85dCUBFajAENTkuHzafIO2/instructorCovers/g3u3ztqj9y78ajqp9o1k.png"
+    ],
+    "instructorAccountStatus": "ACTIVE",
+    "userId": "21if0FmxucWsvTf1VcojVRqkZ3c2",
+    "isChatServiceEnabled": true,
+    "totalMarathons": 0,
+    "totalTrainings": 0,
+    "totalClients": 17,
+    "masterTrainings": [
+      {
+        "direction": "BALANCE",
+        "type": null
+      },
+      {
+        "direction": "BURN",
+        "type": null
+      },
+      {
+        "direction": "POWER",
+        "type": null
+      },
+      {
+        "direction": "ARTISTIC",
+        "type": "typeBalance1"
+      },
+      {
+        "direction": "POWER",
+        "type": null
+      },
+      {
+        "direction": "BALANCE",
+        "type": null
+      },
+      {
+        "direction": "BURN",
+        "type": null
+      },
+      {
+        "direction": "BALANCE",
+        "type": null
+      },
+      {
+        "direction": "BURN",
+        "type": null
+      },
+      {
+        "direction": "BURN",
+        "type": null
+      },
+      {
+        "direction": "ARTISTIC",
+        "type": null
+      },
+      {
+        "direction": "POWER",
+        "type": null
+      },
+      {
+        "direction": "POWER",
+        "type": "typePower1"
+      },
+      {
+        "direction": "BALANCE",
+        "type": null
+      },
+      {
+        "direction": "POWER",
+        "type": null
+      }
+    ]
+  },
+  "users": [
+    {
+      "assignedAt": "2022-10-04T12:56:04.413Z",
+      "bookingSource": null,
+      "trainingId": "77b48712-a24e-4f43-8fb3-b1096b7e34c4",
+      "userId": "21if0FmxucWsvTf1VcojVRqkZ3c2",
+      "instructorId": null,
+      "user": {
+        "id": "21if0FmxucWsvTf1VcojVRqkZ3c2",
+        "firstName": "Дмитрий",
+        "lastName": "Хронолгический",
+        "birthday": "1989-12-11T21:00:00.000Z",
+        "avatar": "https://res.cloudinary.com/dgll2hvw4/image/upload/v1663653250/user/21if0FmxucWsvTf1VcojVRqkZ3c2/avatars/q8xvtfdaac2yrtmezjhu.jpg"
+      }
+    },
+    {
+      "assignedAt": "2022-10-07T07:00:29.548Z",
+      "bookingSource": null,
+      "trainingId": "77b48712-a24e-4f43-8fb3-b1096b7e34c4",
+      "userId": "JKyFQtD2NAMoQBO9hDfHBrFJoAr1",
+      "instructorId": null,
+      "user": {
+        "id": "JKyFQtD2NAMoQBO9hDfHBrFJoAr1",
+        "firstName": "Михаил",
+        "lastName": "",
+        "birthday": "1999-12-31T21:00:00.000Z",
+        "avatar": "https://res.cloudinary.com/vsmrk-ru/image/upload/v1645104724/predefinedUserAvatars/male/Man_12_aeqb1a.png"
+      }
+    },
+    {
+      "assignedAt": "2022-10-05T11:34:28.042Z",
+      "bookingSource": null,
+      "trainingId": "77b48712-a24e-4f43-8fb3-b1096b7e34c4",
+      "userId": "UULYawugQTVV8Z8vhUaf8oqhhdw1",
+      "instructorId": null,
+      "user": {
+        "id": "UULYawugQTVV8Z8vhUaf8oqhhdw1",
+        "firstName": "Tester 33",
+        "lastName": null,
+        "birthday": "2000-01-31T21:00:00.000Z",
+        "avatar": "https://res.cloudinary.com/dgll2hvw4/image/upload/v1663653255/user/UULYawugQTVV8Z8vhUaf8oqhhdw1/avatars/pw9tdwolindbrel0sryy.jpg"
+      }
+    }
+  ],
+  "accessStatus": {
+    "isAvailable": true,
+    "payload": null
+  },
+  "friendsComingToTheTraining": [
+    {
+      "id": "21if0FmxucWsvTf1VcojVRqkZ3c2",
+      "firstName": "Дмитрий",
+      "lastName": "Хронолгический",
+      "birdthday": "1989-12-11T21:00:00.000Z"
+    },
+    {
+      "id": "JKyFQtD2NAMoQBO9hDfHBrFJoAr1",
+      "firstName": "Михаил",
+      "lastName": "",
+      "birdthday": "1999-12-31T21:00:00.000Z"
+    },
+    {
+      "id": "UULYawugQTVV8Z8vhUaf8oqhhdw1",
+      "firstName": "Tester 33",
+      "lastName": null,
+      "birdthday": "2000-01-31T21:00:00.000Z"
+    }
+  ]
+}
